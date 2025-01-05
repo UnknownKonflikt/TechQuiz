@@ -1,0 +1,102 @@
+[
+    {
+      "_id": "1",
+      "question": "What is 5 + 3?",
+      "answers": [
+        { "text": "5", "isCorrect": false },
+        { "text": "6", "isCorrect": false },
+        { "text": "8", "isCorrect": true },
+        { "text": "7", "isCorrect": false }
+      ]
+    },
+    {
+      "_id": "2",
+      "question": "What is 6 + 7?",
+      "answers": [
+        { "text": "4", "isCorrect": false },
+        { "text": "5", "isCorrect": false },
+        { "text": "13", "isCorrect": true },
+        { "text": "7", "isCorrect": false }
+      ]
+    },
+    {
+      "_id": "3",
+      "question": "Who wrote 'Hamlet'?",
+      "answers": [
+        { "text": "Charles Dickens", "isCorrect": false },
+        { "text": "J.K. Rowling", "isCorrect": false },
+        { "text": "William Shakespeare", "isCorrect": true },
+        { "text": "Mark Twain", "isCorrect": false }
+      ]
+    },
+    {
+      "_id": "4",
+      "question": "What is the capital of France?",
+      "answers": [
+        { "text": "Berlin", "isCorrect": false },
+        { "text": "Madrid", "isCorrect": false },
+        { "text": "Paris", "isCorrect": true },
+        { "text": "Lisbon", "isCorrect": false }
+      ]
+    },
+    {
+      "_id": "5",
+      "question": "What is the boiling point of water?",
+      "answers": [
+        { "text": "90°C", "isCorrect": false },
+        { "text": "80°C", "isCorrect": false },
+        { "text": "100°C", "isCorrect": true },
+        { "text": "120°C", "isCorrect": false }
+      ]
+    },
+    {
+      "_id": "6",
+      "question": "Which planet is closest to the sun?",
+      "answers": [
+        { "text": "Venus", "isCorrect": false },
+        { "text": "Earth", "isCorrect": false },
+        { "text": "Mercury", "isCorrect": true },
+        { "text": "Mars", "isCorrect": false }
+      ]
+    },
+    {
+      "_id": "7",
+      "question": "Who painted the Mona Lisa?",
+      "answers": [
+        { "text": "Vincent van Gogh", "isCorrect": false },
+        { "text": "Claude Monet", "isCorrect": false },
+        { "text": "Leonardo da Vinci", "isCorrect": true },
+        { "text": "Pablo Picasso", "isCorrect": false }
+      ]
+    },
+    {
+      "_id": "8",
+      "question": "Which element has the chemical symbol O?",
+      "answers": [
+        { "text": "Gold", "isCorrect": false },
+        { "text": "Osmium", "isCorrect": false },
+        { "text": "Oxygen", "isCorrect": true },
+        { "text": "Oganesson", "isCorrect": false }
+      ]
+    },
+    {
+      "_id": "9",
+      "question": "What is the largest ocean on Earth?",
+      "answers": [
+        { "text": "Atlantic", "isCorrect": false },
+        { "text": "Indian", "isCorrect": false },
+        { "text": "Pacific", "isCorrect": true },
+        { "text": "Arctic", "isCorrect": false }
+      ]
+    },
+    {
+      "_id": "10",
+      "question": "Who discovered penicillin?",
+      "answers": [
+        { "text": "Marie Curie", "isCorrect": false },
+        { "text": "Isaac Newton", "isCorrect": false },
+        { "text": "Alexander Fleming", "isCorrect": true },
+        { "text": "Albert Einstein", "isCorrect": false }
+      ]
+    }
+  ]
