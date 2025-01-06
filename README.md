@@ -174,4 +174,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-This README provides a clear and professional guide for the project, covering installation, configuration, testing, and usage. It helps users and developers easily get started with the project and understand the purpose of each step.
