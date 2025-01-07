@@ -173,4 +173,15 @@ This **Tech Quiz Test Suite** showcases the power of testing with **Cypress**, e
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
+## Demo
 
+Please follow this link to see the app and testing in progress.
+https://drive.google.com/file/d/1TaLQeo2tcaWdg5lzhQFmpXqhKj7SYAJi/view
+
+---
+## Contact
+
+Any questions or concerns you can reach me at :
+unknownkonflikt@gmail.com   
+or send a message through GitHub
+https://github.com/UnknownKonflikt
